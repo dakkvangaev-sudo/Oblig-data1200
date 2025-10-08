@@ -1,3 +1,10 @@
+
+
+
+
+
+
+
 public class Main {
     public static void main(String[] args) {
         // Oppretter en Verden-objekt (omgivelsene)
@@ -14,7 +21,7 @@ public class Main {
         Robot robot2 = new Robot("SparkE", 10, 800, "typeA");
         System.out.println(robot2.reportStatus());
         robot2.canWalkToThePark(todaysWorld);
-        robot2.canDanceAtClub(todaysWorld);
+        robot2.canDanceAtClub(todaysWorld); haoldj jsgfysdfgysfdt
         yooooo
 
         // med botType "B-Bot" og "Toaster"
@@ -26,5 +33,6 @@ public class Main {
         // Sjekk om robotene kan gå til parken
     }
 }
+
 
 
