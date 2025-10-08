@@ -15,7 +15,6 @@ public class Main {
         System.out.println(robot2.reportStatus());
         robot2.canWalkToThePark(todaysWorld);
         robot2.canDanceAtClub(todaysWorld);
-        yooooo
 
         // med botType "B-Bot" og "Toaster"
         // med forskjellig batterinivå
@@ -26,5 +25,6 @@ public class Main {
         // Sjekk om robotene kan gå til parken
     }
 }
+
 
 
